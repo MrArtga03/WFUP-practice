@@ -15,16 +15,29 @@ namespace WindowsFormsApp8
         public Form1()
         {
             InitializeComponent();
+            this.MaximumSize = new System.Drawing.Size(705, 480);
         }
 
+        /// <summary>
+        /// Обработчик кнопки "Построить"
+        /// </summary>
         private void button1_Click(object sender, EventArgs e)
         {
-
             //Переменные для построения графика
-            double begin = Convert.ToDouble(a.Text);
-            double end = Convert.ToDouble(b.Text);
-            double shag = Convert.ToDouble(step.Text);
+            double begin = 0.1, end = 0, shag = 0;
             double x, y;
+
+            //Отлов исключения неверного формата ввода
+            try
+            {
+                begin = Convert.ToDouble(a.Text);
+                end = Convert.ToDouble(b.Text);
+                shag = Convert.ToDouble(step.Text);
+            }
+            catch(FormatException mes)
+            {
+                MessageBox.Show(mes.Message);
+            }
 
             //Проверка на синтаксис
             if (begin >= end)

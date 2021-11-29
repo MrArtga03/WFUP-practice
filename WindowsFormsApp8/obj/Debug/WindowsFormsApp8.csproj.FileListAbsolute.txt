@@ -18,3 +18,13 @@ C:\Users\инет\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFor
 C:\Users\инет\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
 C:\Users\инет\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
 C:\Users\инет\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Smuzi\OneDrive\Рабочий стол\УП 02.01\WFUP-practice\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
